@@ -1,0 +1,9 @@
+[package]
+name = "ratatat-listener"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Switched to inputbot, which is more self-contained and should avoid the previous build issues.
+inputbot = "0.6.0"
+
